@@ -9,7 +9,7 @@ ms.prod: non-product-specific
 ms.custom: external-contributor-guide
 ---
 
-# Docs Markdown reference
+# Docs Markdown reference 
 
 This article provides an alphabetical reference for writing Markdown for docs.microsoft.com (Docs).
 
